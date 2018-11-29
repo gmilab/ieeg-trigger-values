@@ -1,0 +1,10 @@
+{
+  "Incorrect": 1,
+  "Correct": 2,
+  "Left": 4,
+  "Right": 8,
+  "ExtraDim": 16,
+  "IntraDim": 32,
+  "ColorRule": 64,
+  "ShapeRule": 128
+}

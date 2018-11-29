@@ -1,0 +1,9 @@
+{
+  "IncorrectR": 1,
+  "CorrectR": 2,
+  "IncorrectL": 4,
+  "CorrectL": 8,
+  "Fixation": 16,
+  "New": 32,
+  "Repeat": 64
+}

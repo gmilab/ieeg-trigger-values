@@ -1,0 +1,10 @@
+{
+  "": 1,
+  "": 2,
+  "Question": 4,
+  "Stim": 8,
+  "": 16,
+  "Different": 32,
+  "Correct": 64,
+  "Incorrect": 128
+}

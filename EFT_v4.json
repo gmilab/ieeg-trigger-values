@@ -1,0 +1,10 @@
+{
+  "Incorrect": 1,
+  "Correct": 2,
+  "Happy": 4,
+  "Fearful": 8,
+  "Angry": 16,
+  "Face": 32,
+  "Catch": 64,
+  "Fixation": 128
+}
