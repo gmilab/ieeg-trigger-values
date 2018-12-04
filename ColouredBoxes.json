@@ -1,9 +1,9 @@
 {
-  "": 1,
-  "": 2,
+  "Fixation": 1,
+  "Retention": 2,
   "Question": 4,
   "Stim": 8,
-  "": 16,
+  "Test": 16,
   "Different": 32,
   "Correct": 64,
   "Incorrect": 128
