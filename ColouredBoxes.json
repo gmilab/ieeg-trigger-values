@@ -1,10 +1,10 @@
 {
-  "Fixation": 1,
-  "Retention": 2,
-  "Question": 4,
-  "Stim": 8,
-  "Test": 16,
-  "Different": 32,
-  "Correct": 64,
-  "Incorrect": 128
+  "ButtonLeft": 1,
+  "Load2": 2,
+  "Load4": 4,
+  "Different": 8,
+  "Same": 16,
+  "Fixation": 32,
+  "ButtonCorrect": 64,
+  "ButtonIncorrect": 128
 }
