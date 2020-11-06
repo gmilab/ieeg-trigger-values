@@ -1,0 +1,7 @@
+{
+  "Incorrect": 1,
+  "Correct": 2,
+  "Fixation": 4,
+  "Go": 8,
+  "Nogo": 16
+}
