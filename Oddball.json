@@ -1,0 +1,7 @@
+{
+  "Incorrect": 1,
+  "Correct": 2,
+  "Target": 4,
+  "Distractor": 8,
+  "ISI": 16
+}
