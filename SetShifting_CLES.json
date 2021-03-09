@@ -1,0 +1,10 @@
+{
+  "Incorrect": 1,
+  "Correct": 2,
+  "Shift": 4,
+  "NoShift": 8,
+  "ShapeRule": 16,
+  "ExtraDim": 32,
+  "LeftMatch": 64,
+  "Intent": 128
+}
